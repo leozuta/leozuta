@@ -138,7 +138,7 @@ Oi! me chamo Leonel Francisco Gomes Dos Santos, tenho 19 anos e sou natural do P
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozuta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozuta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
