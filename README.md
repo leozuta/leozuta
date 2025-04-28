@@ -1,8 +1,8 @@
-## Leonel Santos# 💻 Leonel Santos
+# 💻 Leonel Santos
 
 **`Desenvolvedor Back-end, Front-end, Mobile e Analista de Dados em nivel Básico`**
 
-Oi! me chamo Leonel Francisco Gomes Dos Santos, tenho 19 anos e sou natural do Piauí,porem residindo no Maranhão. Concluí o ensino médio na U.E Gabriel Ferreira,. Atualmente, estou cursando Desenvolvimento em varias aŕeas e instituições, como por exemplo Desenvolcimento em C# na Microsft, Python e Banco de Dados na Fundaççao Bradesco, entre outras formações realacionadas a área, como o Desenvolvimento Web e uma parte de Python feita na UFSCar. Gosto muito da tecnologia e o que podemos fazer com ela, compartilhando meu conhecimentos e habilidades na empresa que trabalho "[Teresina Luz](www.linkedin.com/in/leonel-francisco-0b027a280)", em projetos freelancer na "[99Freelas](https://www.99freelas.com.br/user/leonel-francisco)" e projetos pŕopios que ficam aqui também.
+Oi! me chamo Leonel Francisco Gomes Dos Santos, tenho 19 anos e sou natural do Piauí,porem residindo no Maranhão. Concluí o ensino médio na U.E Gabriel Ferreira,. Atualmente, estou cursando Desenvolvimento em varias aŕeas e instituições, como por exemplo Desenvolcimento em C# na Microsft, Python e Banco de Dados na Fundaççao Bradesco, entre outras formações realacionadas a área, como o Desenvolvimento Web e uma parte de Python feita na UFSCar. Gosto muito da tecnologia e o que podemos fazer com ela, compartilhando meu conhecimentos e habilidades na empresa que trabalho "[Teresina Luz](www.linkedin.com/in/leonel-francisco-0b027a280)", em projetos freelancer na "[99Freelas](https://www.99freelas.com.br/user/leonel-francisco)" e projetos pŕopios que ficam aqui também".
 
 <p align="left">
     <a>
@@ -138,8 +138,7 @@ Oi! me chamo Leonel Francisco Gomes Dos Santos, tenho 19 anos e sou natural do P
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozuta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozuta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
- 
